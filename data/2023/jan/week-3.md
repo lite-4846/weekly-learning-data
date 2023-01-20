@@ -13,8 +13,11 @@
 
 ### Code
 
-1. https://youtu.be/lHZwlzOUOZ4
-2. ...
+1. why and when to use css
+   - https://youtu.be/lHZwlzOUOZ4
+2. don't use comments in code ??? ...
+   - https://youtu.be/Bf7vDBBOBUA
+3. ...
 
 ### dsa algo
 
@@ -33,7 +36,7 @@
 
 1. https://www.edwardh.io/
 2. https://stackshare.io/withrvr/my-stack
-3. skribbl.io clone:- https://github.com/orgs/Connecting-Dots-Forever/discussions/2
+3. new project skribbl.io clone:- https://github.com/orgs/Connecting-Dots-Forever/discussions/2
 4. https://www.udemy.com/course/chatgpt-bot/
 5. https://twitter.com/jsconf_india/status/1615944642742075393
 6. ...
@@ -53,6 +56,7 @@
 ### discuss on
 
 - project showcase by Abhishek Bhardwaj
+  - https://bhardwaj.netlify.app/
 - headless-cms
 - github pages technology
   - https://github.com/Connecting-Dots-Forever/weekly-learning-data/discussions/2
