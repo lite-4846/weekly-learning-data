@@ -10,7 +10,7 @@
      1. every friday night meeting
      2. on 9 pm
 
-# Folder Structure of Data
+# 📂: Folder Structure of Data
 
 ## blue print
 

@@ -24,9 +24,10 @@
 
 ## Talk
 
-1. https://tailwindcss.com/
-2. https://toffeeshare.com/
-3. https://adventofcode.com/
+1. how we started coding
+2. https://tailwindcss.com/
+3. https://toffeeshare.com/
+4. https://adventofcode.com/
   - https://www.youtube.com/results?search_query=advent+of+code+talk
 
 
@@ -40,5 +41,5 @@
 ### other
 
 1. frosty (at least came for visit)
-2. lite / vedant (active in chat)
+2. lite / Vedant Chaudhari (active in chat)
 
